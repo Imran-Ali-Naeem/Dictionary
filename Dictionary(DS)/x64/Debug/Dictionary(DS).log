@@ -1,0 +1,3 @@
+﻿  code.cpp
+C:\Users\Admin\source\repos\Dictionary(DS)\Dictionary(DS)\code.cpp(425,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Dictionary(DS).vcxproj -> C:\Users\Admin\source\repos\Dictionary(DS)\x64\Debug\Dictionary(DS).exe
